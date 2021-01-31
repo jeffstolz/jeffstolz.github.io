@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/dragon.js"],"names":["DragonPage"],"mappings":"6FAAA,4CAKeA,UAFI,kBAAM,kBAAC,IAAD","file":"component---src-pages-dragon-js-44e450f7c3d5a06b0018.js","sourcesContent":["import React from \"react\"\nimport Layout from \"../layouts/layout\"\n\nconst DragonPage = () => <Layout></Layout>\n\nexport default DragonPage\n"],"sourceRoot":""}
